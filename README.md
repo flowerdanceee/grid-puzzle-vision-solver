@@ -53,7 +53,6 @@ The solver processes the puzzle image through the following pipeline:
                 └───────────┼───────────┘
                             ▼
                          Solution
-```
 
 ### 1. Image Preprocessing
 
